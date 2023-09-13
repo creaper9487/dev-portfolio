@@ -1,19 +1,21 @@
 {
     "education":[
         {
-            "title": "Jun 20XX - Jun 20YY",
-            "cardTitle": "B.Tech, Computer Science",
-            "cardSubtitle":"XYZ University, City",
-            "cardDetailedText": "CGPA - 9.5",
+            "title": "2021~2024",
+            "cardTitle": "高中階段",
+            "cardSubtitle":"桃園市立武陵高中",
+            "cardDetailedText": "任資訊研究社教學&公關，以自己的方法推動資訊安全的知識",
             "icon" : {
                 "src": "images/education/lorem-ipsum.png"
             }
         },
         {
-            "title": "Apr 20XX",
-            "cardTitle": "High School",
-            "cardSubtitle":"ABC School, City",
-            "cardDetailedText": "Marks - 95%"
+            "title": "2018~2021",
+            "cardTitle": "國中階段",
+            "cardSubtitle":"桃園市立福豐國中",
+            "cardDetailedText": "就讀數理資優班，積極學習程式設計並開始接觸 Arduino 微控制器"
+
         }
+        
     ]
 }

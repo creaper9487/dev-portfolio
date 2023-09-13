@@ -11,23 +11,24 @@
             "dateText": "06/20XX – Present"
         },
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
-            "workType": "Internship",
+            "title": "校內英文作文比賽",
+            "subtitle": "個人比賽",
+            "workType": "高一二組優勝",
             "workDescription": [
-                "Worked on abc."
+                "鍛鍊閱讀英文學習資源及產出回饋的技能",
+                "驗證經年累月英文學習的成果"
             ],
-            "dateText": "01/20XX – 05/20XX"
+            "dateText": "2021"
         },
         {
-            "title": "App Developer",
-            "subtitle": "ABC Pvt Ltd",
-            "workType": "Freelance",
+            "title": "全國貓咪盃",
+            "subtitle": "隊伍競賽",
+            "workType": "佳作(16名)",
             "workDescription": [
-                "Developed the official apps for the startup for both Android and iOS using hybrid framework.",
-                "Done bcd work."
+                "第一次參與競賽，也是第一次在電資領域得到成就。",
+                "首次參加校、市內初賽即雙雙奪冠，卻在全國賽過度緊張而失利。"
             ],
-            "dateText": "09/20XX – 01/20YY"
+            "dateText": "2019"
         }
     ]
 }
