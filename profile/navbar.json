@@ -1,0 +1,39 @@
+{
+    "logo" : {
+        "source": "images/logo.png",
+        "height" : 45,
+        "width" : 50
+    },
+    "sections": [
+        {
+            "title": "首頁",
+            "href": "/"
+        },
+        {
+            "title": "我的簡介",
+            "href": "/about"
+        },
+        {
+            "title": "學習經驗",
+            "href": "/skills"
+        },
+        {
+            "title": "求學歷程",
+            "href": "/education"
+        },
+        {
+            "title": "競賽經驗",
+            "href": "/experience"
+        },
+        {
+            "title": "學習成果",
+            "href": "/projects"
+        },
+        {
+            "title": "",
+            "href": "",
+            "type": "link"
+        }
+    ]
+
+}

@@ -1,0 +1,43 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/portfolio-poster.png",
+            "title": "Javascript實驗室",
+            "bodyText": "- 首次接觸**網頁設計**\n - 學習基礎 Javascript、Jquery、CSS",
+            "links": [
+                {
+                    "text": "部分作品",
+                    "href": "/jslab"
+                }
+
+            ],
+            "tags" : [
+                "Javascript",
+                "Html",
+                "CSS"
+            ]
+        },
+        {
+            "image" : "images/projects/caaring-poster.png",
+            "title": "自主學習：對PHP網站進行SQL注入式攻擊",
+            "bodyText": "- 在認識資安領域後，初探實作\n - 學習 Linux 操作及伺服器架設\n - 實作 mySQL 語法及簡易注入攻擊手段",
+            "links": [
+                {
+                    "text": "Server 原始碼",
+                    "href": "/上github"
+                },
+                {
+                    "text": "成果簡述",
+                    "href": "/放PDF"
+                }
+            ],
+            "tags" : [
+                "PHP",
+                "HTML",
+                "mySQL",
+                "Linux",
+                "Apache2"
+            ]
+        }
+    ]
+}
