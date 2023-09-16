@@ -6,32 +6,32 @@
     },
     "sections": [
         {
-            "title": "Home",
+            "title": "首頁",
             "href": "/"
         },
         {
-            "title": "About",
+            "title": "我的簡介",
             "href": "/about"
         },
         {
-            "title": "Skills",
+            "title": "學習經驗",
             "href": "/skills"
         },
         {
-            "title": "Education",
+            "title": "求學歷程",
             "href": "/education"
         },
         {
-            "title": "Experience",
+            "title": "競賽經驗",
             "href": "/experience"
         },
         {
-            "title": "Projects",
+            "title": "學習成果",
             "href": "/projects"
         },
         {
-            "title": " ",
-            "href": "https://drive.google.com/file/d/13kaPsdMNDsM4LV9g7m5-E5PTildp-yYf/view?usp=sharing",
+            "title": "",
+            "href": "",
             "type": "link"
         }
     ]
