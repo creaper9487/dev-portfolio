@@ -1,21 +1,22 @@
 {
     "experiences": [
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
-            "workType": "Full-time",
+            "title": "資安技能金盾獎",
+            "subtitle": "團體比賽",
+            "workType": "初賽淘汰/決賽第十/",
             "workDescription": [
-                "Integrated **2** new product.",
-                "Worked on adding **def** to **bcd**. Improved speed by 50%."
+                "踏入資安領域的契機，許多技能與觀念在此時建立。",
+                "**連續三年**參加比賽，並以此為契機，接連認識許多會議、人物、工作坊及營隊。",
+                "確認學習方向及目標，向**提升人民資安意識**的目標前行。"                
             ],
-            "dateText": "06/20XX – Present"
+            "dateText": "2021-2023"
         },
         {
             "title": "校內英文作文比賽",
             "subtitle": "個人比賽",
             "workType": "高一二組優勝",
             "workDescription": [
-                "鍛鍊閱讀英文學習資源及產出回饋的技能",
+                "鍛鍊閱讀英文學習資源及**產出回饋**的技能",
                 "驗證經年累月英文學習的成果"
             ],
             "dateText": "2021"
@@ -23,10 +24,10 @@
         {
             "title": "全國貓咪盃",
             "subtitle": "隊伍競賽",
-            "workType": "佳作(16名)",
+            "workType": "佳作(第16名)",
             "workDescription": [
-                "第一次參與競賽，也是第一次在電資領域得到成就。",
-                "首次參加校、市內初賽即雙雙奪冠，卻在全國賽過度緊張而失利。"
+                "第一次參與全國級競賽，也是**第一次在電資領域得到成就**。",
+                "**首次參加**校、市內初賽即雙雙奪冠，卻在全國賽過度緊張而失利。"
             ],
             "dateText": "2019"
         }

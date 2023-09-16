@@ -1,13 +1,13 @@
 {
-    "intro": "I love to learn new things and experiment with new technologies.\nThese are some of the major languages, technologies, tools and platforms I have worked with:",
+    "intro": "除了學校安排的課程之外，我亦有透過工作坊、會議、自學得到的特殊經驗。這些都鼓勵我、引導我走上目前的道路。",
     "skills": [{
      
-            "title": "Languages & Databases",
+            "title": "程式語言、電資學群相關技能",
             "items" : [
      
                 {
                     "icon": "images/skills/java.png",
-                    "title": "Java"
+                    "title": "JavaScript"
                 },
                 {
                     "icon": "images/skills/php.png",
@@ -15,48 +15,55 @@
                 },
                 {
                     "icon": "images/skills/js.png",
-                    "title": "JavaScript"
+                    "title": "HTML"
                 },
                 {
                     "icon": "images/skills/python.png",
-                    "title": "Python"
+                    "title": "CSS"
                 },
                 {
                     "icon": "images/skills/mysql.png",
-                    "title": "MySQL"
+                    "title": "C"
+                },
+                {
+                    "icon": "images/skills/mysql.png",
+                    "title": "mySQL"
+                },                {
+                    "icon": "images/skills/mysql.png",
+                    "title": "C++"
                 }
         ]},
         {
-            "title": "Frameworks & Technologies",
+            "title": "營隊、會議與工作坊",
             "items" : [
                 {
                     "icon": "images/skills/android_new.png",
-                    "title": "Android"
+                    "title": "高中職學生資安體驗營"
                 },
                 {
                     "icon": "images/skills/react.png",
-                    "title": "React"
+                    "title": "AIS3 Club"
                 },
                 {
                     "icon": "images/skills/nodejs.png",
-                    "title": "Nodejs"
+                    "title": "SITCON x OSCVPASS"
                 }
             ]
         },
         {
-            "title" : "Tools & Platforms",
+            "title" : "高中校內課程",
             "items": [
                 {
                     "icon": "images/skills/android-studio.png",
-                    "title": "Android Studio"
+                    "title": "C 語言演算法"
                 },
                 {
                     "icon": "images/skills/git.png",
-                    "title": "Git"
+                    "title": "Arduino"
                 },
                 {
                     "icon": "images/skills/docker.png",
-                    "title": "Docker"
+                    "title": "電路板與 3D 列印"
                 }
             ]
     }

@@ -1,16 +1,12 @@
 {
     "social": [
         {
-            "network" : "linkedin",
-            "href": "https://linkedin.com/"
-        },
-        {
             "network" : "github",
-            "href": "https://github.com/mayankagarwal09"
+            "href": "https://github.com/creaper9487"
         },
         {
             "network" : "email",
-            "href": "mailto:test@test.com"
+            "href": "w0979563238@gmail.com"
         }
     ]
 }
