@@ -6,7 +6,7 @@
             "items" : [
      
                 {
-                    "icon": "images/skills/java.png",
+                    "icon": "images/skills/js.png",
                     "title": "JavaScript"
                 },
                 {
@@ -14,7 +14,7 @@
                     "title": "PHP"
                 },
                 {
-                    "icon": "images/skills/js.png",
+                    "icon": "images/skills/html-5.png",
                     "title": "HTML"
                 },
                 {
@@ -22,31 +22,40 @@
                     "title": "CSS"
                 },
                 {
-                    "icon": "images/skills/mysql.png",
-                    "title": "C"
+                    "icon": "images/skills/c-plus-plus.svg",
+                    "title": "C++"
                 },
                 {
                     "icon": "images/skills/mysql.png",
                     "title": "mySQL"
-                },                {
-                    "icon": "images/skills/mysql.png",
-                    "title": "C++"
+                },                
+                {
+                    "icon": "images/skills/c.png",
+                    "title": "C"
+                },
+                {
+                    "icon": "images/skills/git.png",
+                    "title": "git"
                 }
         ]},
         {
-            "title": "營隊、會議與工作坊",
+            "title": "營隊、會議與工作坊參與經驗",
             "items" : [
                 {
-                    "icon": "images/skills/android_new.png",
+                    "icon": "images/skills/ISIP.png",
                     "title": "高中職學生資安體驗營"
                 },
                 {
-                    "icon": "images/skills/react.png",
+                    "icon": "images/skills/AIS3.png",
                     "title": "AIS3 Club"
                 },
                 {
-                    "icon": "images/skills/nodejs.png",
-                    "title": "SITCON x OSCVPASS"
+                    "icon": "images/skills/SITCON.png",
+                    "title": "SITCON"
+                },
+                {
+                    "icon": "images/skills/cosc.svg",
+                    "title": "COSCUP"
                 }
             ]
         },
@@ -54,16 +63,16 @@
             "title" : "高中校內課程",
             "items": [
                 {
-                    "icon": "images/skills/android-studio.png",
+                    "icon": "images/skills/algorithm.png",
                     "title": "C 語言演算法"
                 },
                 {
-                    "icon": "images/skills/git.png",
+                    "icon": "images/skills/motherboard.png",
                     "title": "Arduino"
                 },
                 {
-                    "icon": "images/skills/docker.png",
-                    "title": "電路板與 3D 列印"
+                    "icon": "images/skills/3d-printer.png",
+                    "title": "免焊電路板與 3D 列印"
                 }
             ]
     }
